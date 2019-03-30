@@ -1,4 +1,4 @@
-package guru.springframework;
+package org.legistrate;
 
 /**
  * Created by jt on 2018-12-09.
